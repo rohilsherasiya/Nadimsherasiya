@@ -32,6 +32,7 @@ Er Rohil sheasiya
         .input-row {
             display: flex;
             gap: 10px;
+            margin-bottom: 7px
         }
 
         input[type=text] {
