@@ -1,5 +1,4 @@
 Er Rohil sheasiya
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,7 +19,7 @@ Er Rohil sheasiya
             background: #fff;
             padding: 20px;
             border-radius: 10px;
-            width: 90%;
+            width: 97%;
             max-width: 400px;
             box-shadow: 0 0 10px #aaa;
         }
